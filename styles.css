@@ -63,18 +63,18 @@ body, html {
 /* Стилі для мобільних пристроїв */
 @media (max-width: 768px) {
     #frame1 {
-        content: url('images-mobile/closed-front-mobile.png');
+        content: url('closed-front-mobile.png');
     }
 
     #frame2 {
-        content: url('images-mobile/closed-back-mobile.png');
+        content: url('closed-back-mobile.png');
     }
 
     #frame3 {
-        content: url('images-mobile/open-envelope-mobile.png');
+        content: url('open-envelope-mobile.png');
     }
 
     #frame4 {
-        content: url('images-mobile/letter-mobile.png');
+        content: url('letter-mobile.png');
     }
 }
